@@ -1,0 +1,213 @@
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1300;
+    height: 50px;
+    border: solid 2px black;
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.banner-wrapper .banner-text{
+    width: 550;
+    height: 350;
+    border: solid 2px black;
+    padding: 20px;
+}
+.banner-image{
+    width: 300px;
+    height: 350px;
+    border: solid 2px black;
+    text-align: center;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.about-wrapper .about-text{
+    width: 600px;
+    height: 500px;
+    border: solid 2px black;
+    align-items: center;
+    padding: 20px;
+}
+.about-wrapper .about-image{
+    width: 500px;
+    height: auto;
+    border: solid 2px black;
+    text-align: center;
+}
+.statistics-wrapper{
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    height: 250px;
+    border: solid 2px black;
+    align-items: center;
+}
+.statistics-wrapper .statistics-text{
+    width: auto;
+    height: auto;
+    border: solid 1px black;
+    text-align: center;
+}
+.services-content{
+    width: auto;
+    height: 600px;
+    align-items: center;
+    padding: 40px;
+}
+.services-content .services-text{
+    text-align: center;
+}
+.services-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.services-box .serv-boxes{
+    width: 350px;
+    height: 200px;
+    border: solid 2px black;
+    text-align: center;
+}
+.features-text{
+    text-align: center;
+}
+.features-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+.features-flex .features-list{
+    width: 500px;
+    height: auto;
+    border: solid 2px black;
+}
+.features-flex .features-image{
+    width: 400px;
+    height: 300px;
+    border: solid 2px black;
+}
+.testimonials-text{
+    text-align: center;
+}
+.tests-box{
+    display: flex;
+    justify-content: space-around;
+}
+.tests-box .boxes{
+    width: 350px;
+    height: 200px;
+    border: solid 2px black;
+    align-items: center;
+    text-align: left;
+    padding: 5px;
+}
+.pricing-text{
+    text-align: center;
+}
+.pricing-box{
+    display: flex;
+    justify-content: space-around;
+}
+.pr-boxes{
+    width: 200px;
+    height: 250px;
+    border: solid 2px black;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.faq-texts{
+    text-align: center;
+    align-items: center;
+}
+.faq-box{
+    align-items: center;
+}
+.faq-boxes{
+    width: 600px;
+    height: 50px;
+    border: solid 2px black;
+    text-align: center;
+    margin: auto;
+}
+.contact-text{
+    text-align: center;
+    padding: 10px;
+}
+.contact-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.con-boxes-1{
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    border: solid 2px black;
+    margin: auto;
+}
+.con-boxes-2{
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    border: solid 2px black;
+    margin: auto;
+}
+.con-boxes-3{
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    border: solid 2px black;
+    margin: auto;
+}
+.con-boxes-4{
+    width: 500px;
+    height: 250px;
+    text-align: center;
+    border: solid 2px black;
+    margin: auto;
+}
+.con-boxes-5{
+    width: 502px;
+    height: 250px;
+    text-align: center;
+    border: solid 2px black;
+    margin: auto;
+}
+.footer{
+    padding: 30px;
+}
+.footer-box{
+    display: flex;
+    justify-content: space-around;
+}
+.foot-boxes{
+    width: 150px;
+    height: 200px;
+    border: solid 2px black;
+    text-align: center;
+}
+.foot-boxes-1{
+    width: 300px;
+    height: 200px;
+    border: solid 2px black;
+    text-align: center;
+}
+.footer-end{
+    width: auto;
+    height: 40px;
+    border: solid 2px black;
+}
